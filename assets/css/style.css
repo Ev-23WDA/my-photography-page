@@ -194,3 +194,8 @@ hr{
   text-align: center;
   margin: 2px;
 }
+
+#times h2{
+  color: #f3f2f2;
+  text-decoration-line: underline overline;
+}
