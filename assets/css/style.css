@@ -162,12 +162,12 @@ hr{
   border-style: solid;
   border-color: #d41717;
   border-width: 1px;
-  border-radius: 50%;
+  border-radius: 20%;
   margin: 0 auto;
 }
 
 #circle-cover-bg{
   background: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/video-mask.png") no-repeat center center;
   height:100%;
-  border-radius: 50%;
+  border-radius: 20%;
 }
