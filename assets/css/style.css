@@ -48,12 +48,16 @@ h2{
 }
 
 #hero-image{
-    height: 400px;
+    height: 370px;
     width: 100%;
     background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/main-image.png") no-repeat center;
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
+    border-radius: 5%;
+    border-style: solid;
+    border-color: #d41717;
+    border-width: 3px;
 }
 
 #hero-outer{
