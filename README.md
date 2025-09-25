@@ -60,5 +60,11 @@ Navigation bar there are links to the “Home”, “Gallery” "ContactUs" page
 "buttons to link with and app to do online payments and online booking" (mindbody app)
 'buttons to the Contact Us" as it isn't active yet
 
+# Technologies:
+Languages used:
+HTML
+
+CSS
+
 
 
