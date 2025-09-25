@@ -67,6 +67,27 @@ HTML
 CSS
 
 
+#Testing:
+Testing results:
+W3C Markup Validation Service
+To validate HTML and CSS code.
+
+Index.html :
+
+Errors:
+<img width="1305" height="289" alt="Screenshot 2025-09-25 at 23 29 20" src="https://github.com/user-attachments/assets/d14c0fb7-f737-4a39-b7e6-41c6bae0e655" />
+
+
+Gallery.html :
+
+Errors:
+<img width="1338" height="697" alt="Screenshot 2025-09-25 at 23 33 35" src="https://github.com/user-attachments/assets/2cfd36dd-aff1-4a42-bd1d-fe161be40c28" />
+
+Contact Us.html :
+
+Errors:
+<img width="1342" height="615" alt="Screenshot 2025-09-25 at 23 35 48" src="https://github.com/user-attachments/assets/ed344b57-35c3-4fa3-b45a-de7b9df3a3c9" />
+
 
 # Aknowledgements:
 A massive thank you to my mentor who has been very patiente and very helpful and approchable throughout this project.
