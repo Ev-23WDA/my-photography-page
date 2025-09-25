@@ -52,4 +52,13 @@ PC Mac sreen
 Mobile screen
 
 
+# Features
+Existing Features:
+Navigation bar there are links to the “Home”, “Gallery” "ContactUs" page.
+
+(future features)
+"buttons to link with and app to do online payments and online booking" (mindbody app)
+'buttons to the Contact Us" as it isn't active yet
+
+
 
