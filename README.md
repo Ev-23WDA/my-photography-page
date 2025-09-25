@@ -88,6 +88,9 @@ Contact Us.html :
 Errors:
 <img width="1342" height="615" alt="Screenshot 2025-09-25 at 23 35 48" src="https://github.com/user-attachments/assets/ed344b57-35c3-4fa3-b45a-de7b9df3a3c9" />
 
+CSS Style :
+<img width="1363" height="546" alt="Screenshot 2025-09-25 at 23 39 25" src="https://github.com/user-attachments/assets/62dd0fe2-df13-47c6-938c-412a614e5692" />
+
 
 # Aknowledgements:
 A massive thank you to my mentor who has been very patiente and very helpful and approchable throughout this project.
