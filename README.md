@@ -36,3 +36,6 @@ Find relevant links.
 Frequent Users Goals:
 To see if there is any new event.
 Find updates in the timetable.
+
+# Design:
+The design of the website is made to invite visitors to discover the club, learn about its training programs, running philosophy, and upcoming events, and to easily join or subscribe. I aimed for a clean, simple layout with energetic yet light colors, making it easy to navigate and enjoyable to browse. To inspire newcomers, I included motivational pictures of runners in action—whether in races, group runs, or training sessions—to show the sense of achievement, community, and progress they can experience if they decide to join the running club.
