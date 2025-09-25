@@ -9,3 +9,10 @@ HTML/CSS Essentials
 By Evelacio D'Abreu
 
 [View Repository in GitHub Pages] (https://github.com/Ev-23WDA/my-photography-page#)
+
+# The Why
+To raise awareness of the need to keep exercising by just simple running. Made the website so everyone may see the times and places and join the whenever possible. 
+
+
+# The Bussines Goal
+Increase the number of new members
