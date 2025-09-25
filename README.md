@@ -68,3 +68,14 @@ CSS
 
 
 
+# Aknowledgements:
+A massive thank you to my mentor who has been very patiente and very helpful and approchable throughout this project.
+
+Likewise, to the tutors for helping through to completion on this.
+
+Thank you very much.
+
+Read me based on the Code Institute README sample:
+Readme Sample
+
+
