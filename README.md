@@ -1,5 +1,5 @@
-# My photography Running Club
-A responsive website of a Running Club to showcase events, and increase the number of member subscriptions and visitors. A running club to increase mental and physical health. 
+# My Photography Club
+A responsive website of a Photography Club to showcase events, and increase the number of member subscriptions and students. A Photography club to increase mental and physical health. 
 
 
 # Code Institute - Milestone Project 1
@@ -12,7 +12,7 @@ By Evelacio D'Abreu
 [view Website Link ] (http://127.0.0.1:5500/index.html)
 
 # The Why
-To raise awareness of the need to keep exercising by just simple running. Made the website so everyone may see the times and places and join the whenever possible. 
+To raise awareness of the need to go out and enjoy the outdoors at the same time as learning and improving a new skill, photography. Made the website so everyone may see the times and places and join the whenever possible. 
 
 
 # The Bussines Goal
@@ -38,4 +38,18 @@ To see if there is any new event.
 Find updates in the timetable.
 
 # Design:
-The design of the website is made to invite visitors to discover the club, learn about its training programs, running philosophy, and upcoming events, and to easily join or subscribe. I aimed for a clean, simple layout with energetic yet light colors, making it easy to navigate and enjoyable to browse. To inspire newcomers, I included motivational pictures of runners in action—whether in races, group runs, or training sessions—to show the sense of achievement, community, and progress they can experience if they decide to join the running club.
+The design of the website is made to invite visitors to discover the club, learn about its training programs, the club philosophy, and upcoming events, and to easily join or subscribe. I aimed for a clean, simple layout with energetic yet light colors, making it easy to navigate and enjoyable to browse. To inspire newcomers, I included motivational pictures of runners in action—whether in races, group runs, or training sessions—to show the sense of achievement, community, and progress they can experience if they decide to join the photography club.
+
+# Wireframes:
+The Basic structure of My Photography Club was inspired in the original My photography project made as a guide to new students.
+
+Here some images of the proccess :
+<img width="1420" height="565" alt="Screenshot 2025-09-25 at 23 11 54" src="https://github.com/user-attachments/assets/5446fd77-55cb-47d1-b592-fe0e8cd098ad" />
+PC Mac sreen 
+
+<img width="656" height="678" alt="Screenshot 2025-09-25 at 23 16 01" src="https://github.com/user-attachments/assets/d68c3e20-de35-4d7f-8474-f24050fb68fe" />
+
+Mobile screen
+
+
+
