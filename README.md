@@ -9,7 +9,7 @@ HTML/CSS Essentials
 By Evelacio D'Abreu
 
 [View Repository in GitHub Pages] (https://github.com/Ev-23WDA/my-photography-page#)
-[view Website Link ] (http://127.0.0.1:5500/index.html)
+[view Website Link ] (https://ev-23wda.github.io/my-photography-page/)
 
 # The Why
 To raise awareness of the need to go out and enjoy the outdoors at the same time as learning and improving a new skill, photography. Made the website so everyone may see the times and places and join the whenever possible. 
